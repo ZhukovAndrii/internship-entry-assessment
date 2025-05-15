@@ -14,14 +14,15 @@
 
 4. **In what timeframe are you available for the internship?**  
    - *(Start Date):* 01.07.2025
-   - *(End Date):*  01.10.2025
+   - *(End Date):* 01.10.2025
+   - - *(Comments):* I wanted to start my Master's degree from the next semester, but I am ready to postpone it and work for longer time if it is needed
 
 5. **Can you work the entire period, or just part of the specified period?**  
    - *(Yes/No):* Yes
 
 6. **In case you are not available during the full period, what would be the preferable period?**  
-   - *(Start Date):*  
-   - *(End Date):*  
+   - *(Start Date):* 01.07.2025
+   - *(End Date):* 01.10.2025
 
 7. **Are you a European citizen?**  
    > If not, please be aware that the hiring process might take up to 2 months due to work permit and Visa application processes.  
